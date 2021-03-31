@@ -1,0 +1,15 @@
+.navbar {
+}
+
+.myLogo {
+    height: 60px;
+    width: auto;
+}
+
+a.navbar-brand {
+    padding: 0;
+}
+
+a.nav-link {
+    margin: 0px;
+}

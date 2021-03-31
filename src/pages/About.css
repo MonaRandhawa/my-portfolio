@@ -1,0 +1,10 @@
+.myPhoto {
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.photoColumn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
