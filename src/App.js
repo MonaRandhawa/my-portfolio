@@ -13,14 +13,14 @@ function App() {
     <>
     <Navbar />
 
-    <Router>
+    <HashRouter>
       <Switch>
         <Route exact path="/" component={Home} />
         <Route exact path="/about" component={About} />
         <Route exact path="/experience" component={Experience} />
         <Route exact path="/projects" component={AllProjects} />
       </Switch>
-    </Router>
+    </HashRouter>
 
     </>
   );
