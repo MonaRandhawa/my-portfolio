@@ -4,6 +4,19 @@ import MyAvtar from "../images/HeroImage.svg";
 import HeroButtons from "../components/HeroButtons"
 
 const Home = () => {
+
+    const getLinkedIn = () => {
+        return window.open("https://www.linkedin.com/in/mona-randhawa2021/");
+    }
+
+    const getTwitter = () => {
+        return window.open("https://twitter.com/MonaRandhawa");
+    }
+
+    const getGithub = () => {
+        return window.open("https://github.com/MonaRandhawa");
+    }
+
     return (
         <div className="container-fluid">
             <div className="row hero">
@@ -20,12 +33,15 @@ const Home = () => {
                         <div className="btn-group">
                             <HeroButtons
                                 styleClass="heroButton linkedin button-image"
+                                onClick={getLinkedIn}
                             />
                             <HeroButtons
                                 styleClass="heroButton twitter button-image"
+                                onClick={getTwitter}
                             />
                             <HeroButtons
                                 styleClass="heroButton github button-image"
+                                onClick={getGithub}
                             />
                         </div>
                     </div>

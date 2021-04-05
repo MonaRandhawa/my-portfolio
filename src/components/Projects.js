@@ -8,7 +8,7 @@ const Projects = ( {
     projectDescriptionSolution, 
     screen1, 
     screen2, 
-    screen3 
+    screen3
 }) => {
     return (
     <>
