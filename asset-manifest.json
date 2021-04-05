@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/MonaRandhawa/my-portfolio/static/css/main.9c05dc7a.chunk.css",
+    "main.js": "/MonaRandhawa/my-portfolio/static/js/main.759ed973.chunk.js",
+    "main.js.map": "/MonaRandhawa/my-portfolio/static/js/main.759ed973.chunk.js.map",
+    "runtime-main.js": "/MonaRandhawa/my-portfolio/static/js/runtime-main.6671cb48.js",
+    "runtime-main.js.map": "/MonaRandhawa/my-portfolio/static/js/runtime-main.6671cb48.js.map",
+    "static/js/2.5a3bb390.chunk.js": "/MonaRandhawa/my-portfolio/static/js/2.5a3bb390.chunk.js",
+    "static/js/2.5a3bb390.chunk.js.map": "/MonaRandhawa/my-portfolio/static/js/2.5a3bb390.chunk.js.map",
+    "index.html": "/MonaRandhawa/my-portfolio/index.html",
+    "static/css/main.9c05dc7a.chunk.css.map": "/MonaRandhawa/my-portfolio/static/css/main.9c05dc7a.chunk.css.map",
+    "static/js/2.5a3bb390.chunk.js.LICENSE.txt": "/MonaRandhawa/my-portfolio/static/js/2.5a3bb390.chunk.js.LICENSE.txt",
+    "static/media/HeroImage.cb9114c3.svg": "/MonaRandhawa/my-portfolio/static/media/HeroImage.cb9114c3.svg",
+    "static/media/bg-1.2159231b.png": "/MonaRandhawa/my-portfolio/static/media/bg-1.2159231b.png",
+    "static/media/bg-2.527d1b3f.png": "/MonaRandhawa/my-portfolio/static/media/bg-2.527d1b3f.png",
+    "static/media/bg-3.70a3b67d.png": "/MonaRandhawa/my-portfolio/static/media/bg-3.70a3b67d.png",
+    "static/media/code.7d7641ef.svg": "/MonaRandhawa/my-portfolio/static/media/code.7d7641ef.svg",
+    "static/media/Home.css": "/MonaRandhawa/my-portfolio/static/media/twitter.9f2ffe61.svg",
+    "static/media/group.2225df22.svg": "/MonaRandhawa/my-portfolio/static/media/group.2225df22.svg",
+    "static/media/icons.1394fb08.png": "/MonaRandhawa/my-portfolio/static/media/icons.1394fb08.png",
+    "static/media/idea.09091694.svg": "/MonaRandhawa/my-portfolio/static/media/idea.09091694.svg",
+    "static/media/journey.cc45aa96.png": "/MonaRandhawa/my-portfolio/static/media/journey.cc45aa96.png",
+    "static/media/menu.30192162.svg": "/MonaRandhawa/my-portfolio/static/media/menu.30192162.svg",
+    "static/media/ml-cards.a08df6e5.png": "/MonaRandhawa/my-portfolio/static/media/ml-cards.a08df6e5.png",
+    "static/media/ml-home.d3be0bdb.png": "/MonaRandhawa/my-portfolio/static/media/ml-home.d3be0bdb.png",
+    "static/media/ml-play.a3ffc1e1.png": "/MonaRandhawa/my-portfolio/static/media/ml-play.a3ffc1e1.png",
+    "static/media/mona.7e2c17e7.png": "/MonaRandhawa/my-portfolio/static/media/mona.7e2c17e7.png",
+    "static/media/pi-1.09178d5c.png": "/MonaRandhawa/my-portfolio/static/media/pi-1.09178d5c.png",
+    "static/media/pi-2.629942ce.png": "/MonaRandhawa/my-portfolio/static/media/pi-2.629942ce.png",
+    "static/media/rb-1.9e538970.png": "/MonaRandhawa/my-portfolio/static/media/rb-1.9e538970.png",
+    "static/media/rb-2.f64d200e.png": "/MonaRandhawa/my-portfolio/static/media/rb-2.f64d200e.png",
+    "static/media/strategy.988e6375.png": "/MonaRandhawa/my-portfolio/static/media/strategy.988e6375.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6671cb48.js",
+    "static/js/2.5a3bb390.chunk.js",
+    "static/css/main.9c05dc7a.chunk.css",
+    "static/js/main.759ed973.chunk.js"
+  ]
+}
