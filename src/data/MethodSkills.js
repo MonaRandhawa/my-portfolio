@@ -1,12 +1,8 @@
-export const methodologies = [
-    "critical thinking", 
-    "design thinking", 
-    "visual thinking", 
-    "collaboration with peers", 
-    "Scrum and Agile methodologies", 
-    "growth mindset", 
-    "weekly sprints", "monthly retrospectives", 
-    "debugging", 
-    "pair programming", 
-    "working effectively in high performing teams"
+export const methodologies = [ 
+    "Design and systems thinking", 
+    "Visual thinking", 
+    "Agile methodologies", 
+    "Continuous improvement",
+    "Debugging", 
+    "UX / UI"
 ]

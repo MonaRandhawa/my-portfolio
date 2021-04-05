@@ -1,15 +1,8 @@
 export const techSkills = [
-    "HTML", 
-    "CSS", 
-    "Bootstrap", 
-    "Figma", 
-    "JavaScript", 
-    "React", 
-    "Node.js", 
-    "Rest API's", 
-    "CouchDB", 
-    "MongoDB", 
-    "Git", 
-    "Discord", 
-    "Trello"
+    "HTML, CSS, Bootstrap", 
+    "Figma, Adobe XD", 
+    "Javascript, React, Git", 
+    "Node.js, Express, Rest API's", 
+    "CouchDB, MongoDB",  
+    "Discord, Slack, Trello", 
 ]

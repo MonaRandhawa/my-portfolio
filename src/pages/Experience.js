@@ -8,14 +8,14 @@ import ProfessionalExperience from '../components/ProfessionalExperience';
 
 const Experience = () => {
     return (
-        <div className="experience-container">
+        <div className="experience-container animate__animated animate__fadeIn">
             <div className="card">
-                <div className="card-body">
+                <div className="card-body cardHolder">
                     <div className="row">
                         <div className="col sectionTitle">
                             <h1>
                                 Skills
-                                </h1>
+                            </h1>
                         </div>
                     </div>
 

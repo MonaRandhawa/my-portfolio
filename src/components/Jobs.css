@@ -3,3 +3,15 @@
     margin-right: 50px;
     margin-bottom: 15px;
 }
+
+.role {
+    margin-top: 20px;
+}
+
+.duties {
+    list-style:circle;
+}
+
+.programDescription {
+    font-size: 16px;
+}

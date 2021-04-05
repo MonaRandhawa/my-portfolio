@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-export const HeroButtons = ({ value, styleClass, onClick}) => {
+
+export const HeroButtons = ({ styleClass, onClick }) => {
     return (
-        <button onClick={onClick} type="button" className={`btn ${styleClass=styleClass}`}>{value}</button>
+        <button onClick={onClick} type="button" className={`btn ${styleClass}`}></button>
     )
 }
 

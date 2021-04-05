@@ -1,11 +1,8 @@
 export const softSkills = [
-    "Excellent Communication",
-    "Attention To Detail",
-    "Time management",
-    "Coaching and Development",
+    "Coaching and development",
+    "Highly collaborative",
+    "Attention to detail",
     "Problem-solving",
     "Critical thinking",
     "Data driven",
-    "Highly collaborative",
-    "Customer engagement"
 ]

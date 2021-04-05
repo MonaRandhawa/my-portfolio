@@ -1,15 +1,85 @@
-.navbar {
-}
-
 .myLogo {
     height: 60px;
     width: auto;
+    color: #534f5c;
+    text-decoration: none;
+    font-weight: 900;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
 }
 
 a.navbar-brand {
     padding: 0;
 }
 
+a.navbar-brand:hover {
+    color: rgb(158, 131, 180);
+}
+
 a.nav-link {
-    margin: 0px;
+    font-weight: 600;
+    display: inline-block;
+    position: relative;
+    opacity: 0.80;
+    margin-left: 15px;
+    color: #534f5c;
+}
+
+a.nav-link:hover {
+    opacity: 1;
+}
+
+a.nav-link::before {
+    transition: 300ms;
+    height: 3px;
+    content: "";
+    position: absolute;
+    background-color: rgb(158, 131, 180);
+}
+
+a.nav-link-fade-up::before {
+    width: 100%;
+    bottom: 3px;
+    opacity: 0;
+}
+
+a.nav-link-fade-up:hover::before {
+    bottom: 10px;
+    opacity: 1;
+}
+
+@media only screen and (max-width: 600px) {
+    a.nav-link-fade-up::before {
+        width: 100%;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    a.nav-link-fade-up::before {
+        width: 100%;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    a.nav-link-fade-up::before {
+        width: calc(100% - 15px);
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    a.nav-link-fade-up::before {
+        width: calc(100% - 15px);
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    a.nav-link-fade-up::before {
+        width: calc(100% - 15px);
+    }
 }

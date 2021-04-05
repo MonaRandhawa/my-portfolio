@@ -1,0 +1,27 @@
+.projectAvatars {
+    height: auto;
+    width: 100%;
+}
+
+.iconAlignment {
+    display: flex;
+    border-radius: 10px;
+}
+
+.projectDetails {
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.projectName {
+    font-size: 30px;
+    color: #afb398;
+    font-family: 'Catamaran', sans-serif;
+}
+
+.projectDescription {
+    font-weight: normal;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 16px;
+    color: #25292D;
+}
